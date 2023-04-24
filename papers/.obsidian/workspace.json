@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "6b45a413da82641e",
+    "type": "split",
+    "children": [
+      {
+        "id": "084ebb16b28752d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e8109327f7fb07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4056002a5b21f868",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17f0c8deb3c3224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f0b4a3433ebfd0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "116cb91df57cccba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "271bf65423fd36a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "27999aaa0ee087f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e22b0bbfa4acd4bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126cfb1f6c1219b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40a05d6060dff8ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70ae2bed64890402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5047d80b127ce9d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "02e8109327f7fb07",
+  "lastOpenFiles": [
+    "IDEA.md",
+    "idea.png",
+    "idea.png.crswap",
+    "idea.excalidraw.crswap",
+    "idea.excalidraw",
+    "IDEA.canvas",
+    "home/uavony/Downloads/dlut.jpg.md",
+    "home/uavony/Downloads",
+    "home/uavony",
+    "home",
+    "Federated Multiagent Actor–Critic Learningfor Age Sensitive Mobile-Edge Computing.md"
+  ]
+}
