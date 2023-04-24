@@ -1,0 +1,179 @@
+Mar 21 00:23 : exception: Failed to open '/home/uavony/.config/mpd/state': No such file or directory
+Mar 21 00:23 : exception: Failed to access /home/uavony/Musics: No such file or directory
+Mar 21 00:23 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 20 17:19 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 20 17:50 : exception: No such directory
+Mar 20 17:50 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 20 17:50 : exception: No such directory
+Mar 20 17:51 : exception: No such directory
+Mar 20 17:53 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 20 17:54 : exception: No such directory
+Mar 20 17:54 : exception: No such directory
+Mar 20 17:54 : exception: No such directory
+Mar 20 18:00 : update: added /3小时助眠轻音乐.aac
+Mar 20 18:00 : update: added /California《加州》.aac
+Mar 20 18:00 : update: added /music12.aac
+Mar 20 18:00 : update: added /值得你单曲循环的100首宝藏热歌合集.aac
+Mar 20 18:00 : update: added /听放松的音乐，和我一起看书.aac
+Mar 20 18:00 : update: added /夜月一帘幽梦，春风十里柔情.aac
+Mar 20 18:01 : update: added /百听不厌深度睡眠治愈助眠温暖甜美.aac
+Mar 20 20:25 : exception: Failed to commit /home/uavony/.config/mpd/state: File exists
+Mar 20 21:46 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 21 12:13 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 21 12:27 : player: played "值得你单曲循环的100首宝藏热歌合集.aac"
+Mar 21 14:06 : player: played "值得你单曲循环的100首宝藏热歌合集.aac"
+Mar 21 14:06 : exception: Not playing
+Mar 21 14:07 : exception: Not playing
+Mar 21 14:15 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 21 15:00 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 21 18:40 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 21 19:18 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 21 22:23 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 22 10:45 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 22 16:45 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 22 20:51 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 22 22:13 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 23 12:04 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 23 13:53 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 23 14:15 : update: added /Back to Earth.aac
+Mar 23 14:15 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 23 14:15 : exception: Not playing
+Mar 23 14:16 : update: added 100set/3-网易云音乐校园,CMJ - 银河赴约-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/1-三亩地 - 城南花已开-480P 清晰-HEVC.aac
+Mar 23 14:16 : update: added 100set/14-接个吻，开一枪,SaMZIng - 烟袋斜街-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/6-柳轻颂 - 溯（钢琴版）-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/4-CMJ - 所念皆星河-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/2-折戸伸治 - 潮鳴り-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/8-Approaching Nirvana - You-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/5-十指流玉 - 春风再美也比不上你的笑，没见过你的人自然不会明了。-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/7-羽肿 - 花火が瞬く夜に-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/11-Maple暖枫 - 夜花舞-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/10-Candy_Wind - 和煦的糖果风-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/16-灰澈 - 星萤火-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/13-Seto - 可惜我們不會再見了-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/12-Maple暖枫 - 烟舞除岁-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/25-July - My Soul-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/18-四季音色 - 夏夜-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/15-灰澈 - 星茶会-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/9-Jannik - 浮光 (The History)-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/26-Josh Vietti - Where Is the Love-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/19-昙轩 - 海の形-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/17-Zeraphym 六翼使徒 - Lifeline-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/20-闫东炜 - 夏野与暗恋-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/22-羽肿 - Rain after Summer-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/27-Josh Vietti - Because of You-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/21-余日秋山 - 儿时的夏日-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/23-羽肿 - Windy Hill-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/24-Alan Walker - Fade-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/33-LJY - Autumn （秋）-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/29-Key Sounds Label - Bloom of Yout-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/32-Jurrivh - Lonely Day-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/28-JINBAO - 日暮里-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/41-Thomas Greenberg - The Right Pat-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/31-Ken Arai - NEXT TO YOU-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/30-Lazer Boomerang - Time to Preten-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/34-Maksim - Croatian Rhapsody-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/40-Thomas Bergersen - Empire of Ang-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/35-mamomo - hometown-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/37-Mark Petrie - Go Time [HQ]-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/36-Maple暖枫 - 失真的梦-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/38-Snigellin - Sakura Tears-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/39-SMOOTH J - 春よ、来い-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/48-CMJ - 萤火之森-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/46-Capo Productions - Journey-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/42-Tomoyasu Hotei - Battle Without-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/44-Two Steps From Hell - Victory-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/43-Two Steps From Hell - Star Sky --480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/53-dylanf - 卡农（经典钢琴版）-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/45-Candy_Wind - 青空-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/50-Diana Boncheva - Purple Passion-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/51-DJ Siesta - Another Day-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/47-CMJ - 山海不可平-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/52-Dreamtale - Intro： The Dawn-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/54-Ehrling - Champagne Ocean-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/49-Cymophane - Tassel-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/56-idealism - nagashi-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/57-Isaac Shepard - Felicity-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/61-小新 - 最后的句号-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/55-HOPE-T,接个吻，开一枪 - 锦里-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/59-文武贝 - 繁华的寂静-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/77-磯村由紀子 - 風の住む街-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/58-IYP-UK - Late summer-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/60-夏小舟 - Hometown and miss-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/64-麦振鸿 - 雪见—仙凡之旅-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/66-Two Steps From Hell,Thomas Berge-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/63-逆时针向 - 晚星-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/65-逆时针向 - Asphyxia-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/62-宗次郎 - いつも何度でも-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/68-阿南亮子 - Refrain-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/69-坂本龍一 - Merry Christmas Mr. Lawre-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/67-Yoohsic Roomz - Eutopia-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/72-福合埕在逃牛肉丸 - 做 讓 人 远 远 聽 見 的 風-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/71-变奏的梦想 - 江上清风游-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/70-暴走馒头 - letter-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/84-Richard Clayderman - 梦中的婚礼-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/73-傅许 - 寂静之空-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/75-好过分想了好久的昵称 - 万蝶振翅（古筝）-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/74-贵族乐团 - The Sound of Silence-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/79-十指流玉,鲤羽Lyka - 月色与雪色之间，你是第三种绝色。-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/83-Sand - CHINA-2-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/76-灰澈 - 森林-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/78-鲸鱼 - 写在风中的信-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/80-神津裕之 - Luv Letter-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/93-MoreanP - Ephemeral Memories-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/81-羽肿 - 为霜-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/82-羽肿 - Somnambulating-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/87-Pianoboy高至豪 - The truth that you-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/91-nadiak - Hide-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/85-Richard Clayderman - 爱的纪念-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/86-Ramin Djawadi,Tom Morello - Paci-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/94-Michael Cramtu,Bandari - Big Big-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/88-Otokaze - 夏恋-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/89-Noicybino - Fell for U-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/90-Nightwish - Last of the Wilds-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/92-MoreanP - 寄夏予你（off vocal)-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/95-久石譲 - Summer-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/99-ULY - 《从你的全世界路过》插曲扒带完整版-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/96-Maple暖枫 - 雨葬花海-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/97-Maple暖枫 - 小水鲸-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/98-Maple暖枫 - 时落叶影-480P 清晰-AVC.aac
+Mar 23 14:16 : update: added 100set/100-Valentin - A Little Story-480P 清晰-AVC.aac
+Mar 23 14:34 : player: played "Back to Earth.aac"
+Mar 23 14:54 : player: played "Back to Earth.aac"
+Mar 23 15:11 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 23 22:26 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 11:12 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 17:09 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 18:54 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 20:03 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 20:54 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 20:59 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 24 21:34 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 25 08:53 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 25 08:57 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 25 15:15 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 25 21:40 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 25 23:19 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 26 21:38 : player: played "Back to Earth.aac"
+Mar 26 21:43 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 27 07:12 : output: Failed to play on "PipeWire Sound Server" (pipewire): no node available
+Mar 27 07:12 : exception: Failed to open audio output
+Mar 27 07:20 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 27 07:41 : player: played "Back to Earth.aac"
+Mar 27 07:43 : exception: Not playing
+Mar 27 07:43 : exception: Not playing
+Mar 27 07:43 : exception: Not playing
+Mar 27 09:09 : player: played "听放松的音乐，和我一起看书.aac"
+Mar 27 16:44 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 27 19:15 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 27 19:24 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 27 20:06 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 27 22:04 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 27 23:07 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 28 10:44 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 28 21:46 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 29 08:46 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 29 09:22 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 29 11:22 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Mar 29 11:25 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
+Apr 02 08:26 : player: played "百听不厌深度睡眠治愈助眠温暖甜美.aac"
